@@ -21,5 +21,6 @@ I am a software engineer with 9+ years of .NET professional experience, passiona
 <a href="https://linkedin.com/in/lev-yastrebov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lev-yastrebov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3087417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="at-stackoverflow" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/levyas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="at-leetcode" height="30" width="40" /></a>
+<a href="https://twitter.com/LevYastrebov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="at-twitter" height="30" width="40" /></a>
 </p>
 
