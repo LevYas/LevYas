@@ -11,7 +11,7 @@ A quick "about me":
 | Want to learn | <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" alt="F#" height="50" /> <img src="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png" alt="Haskell" height="50" />
 
 
-I am a software engineer with 9+ years of .NET professional experience, passionate about solving business tasks by writing an effective, robust, and maintainable code. 
+I am a sw engineer with 10+ years of professional experience, passionate about solving business tasks by writing an effective, robust, and maintainable code. 
 
 ### Know more about my experience:
 <a href="https://www.toptal.com/resume/lev-yastrebov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/toptal.svg" alt="at-toptal" height="30" width="40" /></a>
