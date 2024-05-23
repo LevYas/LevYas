@@ -12,3 +12,15 @@ A quick "about me":
 
 
 I am a sw engineer with 10+ years of professional experience, passionate about solving business tasks by writing an effective, robust, and maintainable code. 
+
+### Know more about my experience:
+<a href="https://www.toptal.com/resume/lev-yastrebov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/toptal.svg" alt="at-toptal" height="30" width="40" /></a>
+
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/lev-yastrebov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lev-yastrebov" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3087417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="at-stackoverflow" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/levyas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="at-leetcode" height="30" width="40" /></a>
+<a href="https://twitter.com/LevYastrebov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="at-twitter" height="30" width="40" /></a>
+</p>
+
